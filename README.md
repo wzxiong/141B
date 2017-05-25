@@ -19,4 +19,4 @@ We download scrape text from The California Aggie and then analyze the text. [De
 
 SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS).
 
-We did some basic thing with some data sets of San Francisco. [Details](https://github.com/mengyeliu/myliu.github.io/blob/master/assignment6.ipynb)
+We did some basic thing with some data sets of San Francisco. [Details](https://github.com/wzxiong/Interesting-points-in-SF/blob/master/Analyzing%20interesting%20points%20in%20San%20Francisco%20.ipynb)
