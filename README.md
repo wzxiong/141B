@@ -7,7 +7,7 @@
 
 Image processing is processing of images using mathematical operations by using any form of signal processing for which the input is an image, a series of images, or a video, such as a photograph or video frame; the output of image processing may be either an image or a set of characteristics or parameters related to the image.
 
-We did some basic thing about this topic. [Details](https://github.com/mengyeliu/myliu.github.io/blob/master/assignment2.ipynb)
+We did some basic thing about this topic. [Details](https://github.com/wzxiong/Data-Web-Technologies-for-Data-Analysis/blob/master/homework2-operate%20on%20image/assignment2.ipynb)
 
 ### Natural language processing (NLP)
 
