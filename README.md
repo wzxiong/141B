@@ -13,7 +13,7 @@ We did some basic thing about this topic. [Details](https://github.com/wzxiong/D
 
 NLP is a field of computer science, artificial intelligence, and computational linguistics concerned with the interactions between computers and human (natural) languages and, in particular, concerned with programming computers to fruitfully process large natural language corpora.
 
-We download scrape text from The California Aggie and then analyze the text. [Details](https://github.com/mengyeliu/myliu.github.io/blob/master/assignment5.ipynb)
+We download scrape text from The California Aggie and then analyze the text. [Details](https://github.com/wzxiong/Data-Web-Technologies-for-Data-Analysis/blob/master/homework5-web%20and%20text/assignment5.ipynb)
 
 ### Structured Query Language(SQL)
 
